@@ -1,4 +1,4 @@
 # CIS-ServiceChecker
-Копируй то что снизу и вставляй в win+r
+Копируй то что снизу и вставляй в cmd
 
-cmd powershell -ep bypass -c "irm https://raw.githubusercontent.com/RealM1koto/CIS-ServiceChecker/main/CIS-ServiceChecker.ps1 | iex"
+powershell -ep bypass -c "irm https://raw.githubusercontent.com/RealM1koto/CIS-ServiceChecker/main/CIS-ServiceChecker.ps1 | iex"
